@@ -3,7 +3,7 @@
   "author": "Vic",
   "version": "1.0",
   "description": "",
-  "fileApi": "https://raw.giteeusercontent.com/vic2184/GCA-auto/raw/master",
+  "fileApi": "https://gitee.com/vic2184/GCA-auto/raw/master",
   "files": [
     {
       "path": "config/acceleratedrendering-client.toml",
