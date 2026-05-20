@@ -678,14 +678,6 @@
       "hash": "942bfe60e7519fcbd333b027ee62bf3dffbfc3f9"
     },
     {
-      "path": "config/voxy-client.toml",
-      "hash": "35054402d671e0378e3f305cc2c7582291037688"
-    },
-    {
-      "path": "config/voxy-config.json",
-      "hash": "c4bacc1c7e9cb1eaf519213b2e6d8260ff341c85"
-    },
-    {
       "path": "config/worldedit/worldedit.properties",
       "hash": "5b7d8c6af8b98798bce4086f8b021224271356b9"
     },
@@ -768,14 +760,6 @@
     {
       "path": "config/yes_steve_model-client.toml",
       "hash": "c6796968558db901860dbdbbad0e418c46e1701f"
-    },
-    {
-      "path": "config/youkaishomecoming-client.toml",
-      "hash": "958e4adc6a2d7df82d53351efb599d991a753a8a"
-    },
-    {
-      "path": "config/youkaishomecoming-server.toml",
-      "hash": "e573b5e1c133e3a94220f4e6dc8cde5855ecdcc4"
     },
     {
       "path": "defaultconfigs/ftbessentials-server.snbt",
