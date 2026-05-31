@@ -16,44 +16,4 @@ ServerEvents.recipes(event => {
 }).id("create:crushing/gunpowder_from_flint")
 //添加机械动力火药配方
 
-event.custom({
-  type: "create:compacting",
-  heat_requirement:"heated",
-  ingredients: [
-    {
-      tag: "c:ingots/copper"
-    },
-    {
-      tag:"c:ingots/iron"
-    }
-  ],
-  results: [
-    {
-      id: "pointblank:gunmetal_ingot"
-    }
-  ]
-}).id("create:compacting/gunmetal_heated")
-event.custom({
-  type: "create:compacting",
-  ingredients: [
-    {
-      tag: "c:ingots/copper"
-    },
-    {
-      tag:"c:ingots/iron"
-    },
-    {
-      "type": "neoforge:single",
-      "amount": 10,
-      "fluid": "minecraft:lava"
-    }
-  ],
-  results: [
-    {
-      id: "pointblank:gunmetal_ingot"
-    }
-  ]
-}).id("create:compacting/gunmetal_lava")
-//VPB枪械金属锭配方
-
 })

@@ -1,7 +1,7 @@
 {
   "name": "GCA",
   "author": "Vic",
-  "version": "1.0",
+  "version": "2.0",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/Vic2184/GCA-auto/refs/heads/master",
   "files": [
@@ -678,6 +678,14 @@
       "hash": "942bfe60e7519fcbd333b027ee62bf3dffbfc3f9"
     },
     {
+      "path": "config/voxy-client.toml",
+      "hash": "35054402d671e0378e3f305cc2c7582291037688"
+    },
+    {
+      "path": "config/voxy-config.json",
+      "hash": "c4bacc1c7e9cb1eaf519213b2e6d8260ff341c85"
+    },
+    {
       "path": "config/worldedit/worldedit.properties",
       "hash": "5b7d8c6af8b98798bce4086f8b021224271356b9"
     },
@@ -815,11 +823,11 @@
     },
     {
       "path": "kubejs/server_scripts/recipes.js",
-      "hash": "5f90a299c4d58360b3c120b6258174bf91abf14b"
+      "hash": "5bd5a6e4468aa0fe2cf1aa6018cc139d0b987eec"
     },
     {
       "path": "kubejs/server_scripts/tag.js",
-      "hash": "4f84b8ffa21133b15db8354b69ce46becda8154f"
+      "hash": "36e7d723bc75d32e4ba8166d817192f1e3e5d756"
     },
     {
       "path": "kubejs/startup_scripts/jsconfig.json",
@@ -830,20 +838,24 @@
       "hash": "05ec115c372985dc9f77dd2513933aa8e90eba61"
     },
     {
+      "path": "mods/aaa_particles-neoforge-1.21.1-2.2.1.jar",
+      "hash": "6905dd8232ed1360306194aed236e40045d78eba"
+    },
+    {
       "path": "mods/Chunky-NeoForge-1.4.23.jar",
       "hash": "ab0c74743a653020fe2dfc4986b43e893947f3e9"
     },
     {
-      "path": "mods/createaddition-1.5.11.jar",
-      "hash": "455dc8907be32193a89a34b98a1e24a08e8b65a1"
+      "path": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
+      "hash": "a735362c4e5ef705956f1fcbac01fb9f1aae5b8e"
     },
     {
       "path": "mods/framework-neoforge-1.21.1-0.13.11.jar",
       "hash": "e46eb138fbb13a12f37154fb4ec407d64b326475"
     },
     {
-      "path": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
-      "hash": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
+      "path": "mods/gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.0.3.jar",
+      "hash": "94f74e7d1bed1347eb2fa70ec8ccf45697dbe1a1"
     },
     {
       "path": "mods/kubejs-neoforge-2101.7.2-build.363.jar",
@@ -858,12 +870,12 @@
       "hash": "292a5cafec0267da5cc94220b2d5e294dc487cbb"
     },
     {
-      "path": "mods/pointblank-neoforge-1.21-1.11.1.jar",
-      "hash": "58570698e839acec1ad9a9778802dac8550d49ce"
-    },
-    {
       "path": "mods/rhino-2101.2.7-build.81.jar",
       "hash": "480235a9f7749f68ce6fec3b9c3cac3428b92a4a"
+    },
+    {
+      "path": "mods/tacz-neoforge-1.21.1-1.1.8-hotfix-r1.jar",
+      "hash": "35e912ce422c8ea41eb9a154b0117334a0c348c7"
     },
     {
       "path": "mods/touhoulittlemaid-1.5.2-neoforge+mc1.21.1.jar",
@@ -942,10 +954,6 @@
       "hash": "924fe181a29bd66be6783f6d589968ab0ee02250"
     },
     {
-      "path": "mods/[A][前置] architectury-13.0.8-neoforge.jar",
-      "hash": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
-    },
-    {
       "path": "mods/[A][前置] baguettelib-1.21.1-NeoForge-2.0.3.jar",
       "hash": "e01709c880b0602b7a306201a25866e76c44f5c0"
     },
@@ -1014,12 +1022,20 @@
       "hash": "7be6d8b24f3120fa6a2520c32a2e6c8c4254322c"
     },
     {
+      "path": "mods/[A][机械动力：交错电网] powergrid-mc1.21.1-0.5.5.1.jar",
+      "hash": "06b0500d7101c5846e9e2c5bb4b53646a50ef133"
+    },
+    {
       "path": "mods/[A][机械动力：伪装方块+] copycats-3.0.4+mc.1.21.1-neoforge.jar",
       "hash": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f"
     },
     {
       "path": "mods/[A][机械动力：列车转向架] create_bb-1.0.7-1.21.1-Neoforge.jar",
       "hash": "7a6eae4bc851786c6519c8cac956b406cb71a8eb"
+    },
+    {
+      "path": "mods/[A][机械动力：创想附加] createaddition-1.5.10.jar",
+      "hash": "2bd194da923dd38239ef49df30ecf1a720d38997"
     },
     {
       "path": "mods/[A][机械动力：创意传动] create_connected-1.1.16-mc1.21.1.jar",
@@ -1154,6 +1170,10 @@
       "hash": "adbd8f617928af37b286cadf7b45707e2498f25a"
     },
     {
+      "path": "mods/[A][机械动力：重力学] gravitation-neoforge-1.21.1-0.0.6.jar",
+      "hash": "0bafb0b6a5cf33977c21ce7bbcc15e2fb1da069a"
+    },
+    {
       "path": "mods/[A][机械动力：附魔工业] create-enchantment-industry-2.3.0.jar",
       "hash": "d9cef051c5318d27c634184bfb1ef35550b96789"
     },
@@ -1240,10 +1260,6 @@
     {
       "path": "mods/[A][遗体 · 饰品兼容] corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
       "hash": "821d83bb4414e93721563e9ed7670976bc2afab1"
-    },
-    {
-      "path": "mods/[A][遗体] corpse-neoforge-1.21.1-1.1.13.jar",
-      "hash": "a735362c4e5ef705956f1fcbac01fb9f1aae5b8e"
     },
     {
       "path": "mods/[A][饰品] curios-neoforge-9.5.1+1.21.1.jar",
@@ -1447,7 +1463,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "a4185a83cb8894c92c14ef6dc0933e798708825b"
+      "hash": "eb216c4f79bcd80efa5ea61c257b90fa53776d6b"
     },
     {
       "path": "PCL/Logo.png",
@@ -1467,23 +1483,23 @@
     },
     {
       "path": "resourcepacks/XKSP 姹紫嫣红 colorful leaves  v3.2.zip",
-      "hash": "7c4fb85fe6651dfb38b006cadc31bb241a71f37a"
+      "hash": "5769390c6cf51ed773ae07c66137177e2440be30"
     },
     {
       "path": "resourcepacks/XKSP 枝繁叶茂 lush foliage  v3.2.zip",
-      "hash": "7c4fb85fe6651dfb38b006cadc31bb241a71f37a"
+      "hash": "17adb668af25e4cb23fdfb14393a460370e77007"
     },
     {
       "path": "resourcepacks/XKSPv3.13瑶草琪花 lush plants.zip",
-      "hash": "47c35036e506e166ca4b30fec6eb5d2bd2fcc1ac"
+      "hash": "8611bdc9ecf2819dec91db6cc635e2ae6e47a2e2"
     },
     {
       "path": "resourcepacks/XKSPv3.13精雕细琢 detail models.zip",
-      "hash": "47c35036e506e166ca4b30fec6eb5d2bd2fcc1ac"
+      "hash": "14a226faa44c741e59369be7d3f86e58ae4595b0"
     },
     {
       "path": "resourcepacks/XKSPv3.13自然附着 naturalize.zip",
-      "hash": "47c35036e506e166ca4b30fec6eb5d2bd2fcc1ac"
+      "hash": "27b713919d3f0491ee98c8d3b5aefdbc16ac3758"
     },
     {
       "path": "resourcepacks/整合包任务需求资源包.zip",
