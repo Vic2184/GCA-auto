@@ -3,7 +3,8 @@
   "author": "Vic",
   "version": "2.0",
   "description": "",
-  "fileApi": "https://raw.githubusercontent.com/Vic2184/GCA-auto/refs/heads/master",
+  //"fileApi": "https://raw.githubusercontent.com/Vic2184/GCA-auto/refs/heads/master",
+  "fileApi":"https://raw.gitcode.com/Vic2184/GCA-auto/raw/master",
   "files": [
     {
       "path": "config/acceleratedrendering-client.toml",
