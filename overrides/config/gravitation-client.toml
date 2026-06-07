@@ -1,0 +1,10 @@
+#Contraption Diagram Export Config
+[diagram_export]
+	#Export 16:9 aspect ratio image (1920×1080, rendered at 448×252)
+	export16x9 = true
+	#Export 4:3 aspect ratio image (1920×1440, rendered at 256×192)
+	export4x3 = true
+	#Export 3:2 aspect ratio image (1920×1280, rendered at 384×256)
+	export3x2 = true
+	#Export 1:1 aspect ratio image (1920×1920, rendered at 256×256)
+	export1x1 = true

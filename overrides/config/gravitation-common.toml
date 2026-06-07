@@ -1,0 +1,41 @@
+#The minimum adjustable weight for the Redstone Mass Energy Converter
+# Default: 1
+# Range: 1 ~ 1024
+redstone_mass_energy_converter_min_mass = 1
+#The maximum adjustable weight for the Redstone Mass Energy Converter
+# Default: 100
+# Range: 1 ~ 1024
+redstone_mass_energy_converter_max_mass = 100
+#The maximum size for physics staff allowed control
+# Default: 32768
+# Range: 4096 ~ 1073741824
+physics_staff_allowed_max_control_size = 32768
+#Whether physics staff can lock sub-levels
+physics_staff_allow_lock_sub_level = false
+#Reaction force multiplier applied to the SubLevel a player stands on when using a handle (shift+right-click) to move another SubLevel. Set to 0 to disable.
+# Default: 1.0
+# Range: 0.0 ~ 10.0
+handle_reaction_force_multiplier = 1.0
+
+#WindTunnel's Config
+[wind_tunnel]
+	#Maximum number of open blocks scanned in front of a wind tunnel.
+	# Default: 16
+	# Range: 1 ~ 64
+	max_range = 16
+	#Base local air velocity injected by the tunnel, in blocks-per-second.
+	# Default: 12.0
+	# Range: 0.0 ~ 128.0
+	base_airspeed = 12.0
+	#How much the push weakens from the nozzle to the end of the stream.
+	# Default: 0.65
+	# Range: 0.0 ~ 1.0
+	force_falloff = 0.65
+	#How much the push weakens from the nozzle to the end of the stream.
+	# Default: 0.85
+	# Range: 0.0 ~ 3.0
+	cross_section_radius = 0.85
+	#Upper clamp for the injected local air velocity, in blocks-per-second.
+	# Default: 64.0
+	# Range: 0.0 ~ 128.0
+	max_airspeed = 64.0
