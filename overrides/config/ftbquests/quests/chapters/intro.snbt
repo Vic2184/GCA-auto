@@ -85,14 +85,20 @@
 		}
 		{
 			icon: {
-				id: "pointblank:printer"
+				components: {
+					"ftbquests:missing_item": "pointblank:printer"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "464B257FE179E61E"
 			rewards: [{
 				id: "598F1008BF049B49"
 				item: {
+					components: {
+						"ftbquests:missing_item": "pointblank:processor"
+					}
 					count: 1
-					id: "pointblank:processor"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
